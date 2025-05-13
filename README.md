@@ -27,11 +27,11 @@
 
 [Share World](https://github.com/NotRohanPaul/share-world.git)  
 - Peer-to-peer file sharing app with authentication  
-- Built with React, NodeJS, Express, MongoDB  
+- Built with Typescript, React, NodeJS, Express, MongoDB  
 
 [All Calcis](https://github.com/NotRohanPaul/all-calcis)  
 - Windowed calculators and converters with advanced UI  
-- Built with React, TailwindCSS, Redux  
+- Built with Typescript,React, TailwindCSS
 
 ## Connect  
 [LinkedIn](https://linkedin.com/in/rohanpaul-dev)
