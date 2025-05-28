@@ -6,11 +6,12 @@
 ## Tech Stack
 
 ### Frontend
-1. ReactJS  
-2. TailwindCSS  
-3. Redux  
-4. React Query  
-5. Axios  
+1. HTML
+2. CSS
+3. ReactJS
+4. TailwindCSS
+5. Axios
+6. Motion
 
 ### Backend
 1. NodeJS  
@@ -21,7 +22,7 @@
 ### Bothend
 1. TypeScript  
 2. Zod  
-3. Jest  
+3. Vitest  
 
 ## Projects
 
